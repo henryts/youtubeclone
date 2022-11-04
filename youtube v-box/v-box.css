@@ -1,0 +1,10 @@
+.v-box{
+    display:grid;
+   grid-template-columns: 1fr;
+   background-color: lightcoral;
+   color: yellow;
+
+}
+.thumb-image-div{
+    background-color: yellow;
+}
